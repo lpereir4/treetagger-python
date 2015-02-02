@@ -24,7 +24,7 @@ _treetagger_url = 'http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/'
 
 _treetagger_languages = {
 u'latin-1':['bulgarian', 'dutch', 'english', 'estonian', 'french', 'german', 'greek', 'italian', 'latin', 'russian', 'spanish', 'swahili'],
-u'utf8' : ['french', 'german', 'greek', 'italian', 'spanish']}
+u'utf8' : ['english', 'french', 'german', 'greek', 'italian', 'spanish']}
 
 """The default encoding used by TreeTagger: utf8. u'' means latin-1; ISO-8859-1"""
 _treetagger_charset = [u'utf8', u'latin-1']
